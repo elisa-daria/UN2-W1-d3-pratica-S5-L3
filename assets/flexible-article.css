@@ -28,6 +28,7 @@ h1 {
 }
 article p {
   font-weight: 300;
+  margin-top: -25%;
 }
 img {
   width: 80%;
