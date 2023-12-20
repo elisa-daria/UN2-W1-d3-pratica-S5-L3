@@ -28,6 +28,7 @@ body {
 h2 {
   font-weight: 700;
   line-height: 0;
+  font-size: 1.4em;
 }
 .card div p:first-of-type {
   align-self: self-end;
