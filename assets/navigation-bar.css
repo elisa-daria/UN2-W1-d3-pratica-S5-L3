@@ -1,4 +1,4 @@
-body {
+header {
   font-family: sans-serif;
   padding: 2%;
   color: #612405;
@@ -13,12 +13,12 @@ nav {
   display: flex;
   justify-content: center;
 }
-ul {
+nav ul {
   display: flex;
   align-items: center;
 }
 
-ul li {
+nav ul li {
   min-width: 120px;
   height: 40px;
   border-radius: 95px 95px 95px 95px;
